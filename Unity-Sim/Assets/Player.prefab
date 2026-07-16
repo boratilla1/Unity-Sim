@@ -265,7 +265,7 @@ MonoBehaviour:
   syncDirection: 0
   syncMode: 0
   syncInterval: 0
-  moveSpeed: 5
+  moveSpeed: 3
   jumpHeight: 1.5
   gravity: -20
   mouseSensitivity: 2
